@@ -1,0 +1,23 @@
+[
+   {
+      "id": "425ae143-283b-4a0e-9672-8bd1d264fab5",
+      "clase": 1,
+      "titulo": "Bienvenida",
+      "estado": "Pendiente",
+      "fecha": "2023-05-05T22:18:46.865Z"
+   },
+   {
+      "id": "425ae143-283b-4a0e-9672-8bd1d264faa5",
+      "clase": 2,
+      "titulo": "Introduccion a NodeJS",
+      "estado": "en proceso",
+      "fecha": "2023-05-05T22:18:46.865Z"
+   },
+   {
+      "id": "cad7d21d-cba3-4739-9f95-5790124b51e5",
+      "clase": 3,
+      "titulo": "Introduccion a JavaS",
+      "estado": "pendiente",
+      "fecha": "2023-05-05T23:13:04.692Z"
+   }
+]
